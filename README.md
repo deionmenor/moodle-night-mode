@@ -9,7 +9,7 @@ This repo contains CSS code for making the Ateneo de Manila University Moodle we
 
 ## INSTALLATION
 
-I recommend downloading Stylus [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en) for Google Chrome. Stylus injects its own CSS into the webpage you're on so you can essentially make the website look however you like!
+I recommend downloading [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en) for Google Chrome or Firefox. Stylus injects its own CSS into the webpage you're on so you can essentially make the website look however you like!
 
 Afterwards, you can INSTALL my ADMU Moodle Night Mode theme [HERE](https://userstyles.org/styles/164201/admu-moodle-night-mode).
 
