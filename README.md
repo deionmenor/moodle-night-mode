@@ -1,7 +1,7 @@
 # moodle-night-mode
 
 
-![Screenshot]\(https://i.imgur.com/hLYLkwj.png) 
+![Screenshot](https://i.imgur.com/hLYLkwj.png) 
 Perfect for late night ~~submissions~~ studying!
 
 
